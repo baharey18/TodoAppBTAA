@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.todoappbtaa"
+    namespace = "com.btaaprojects.todoappbtaa"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.todoappbtaa"
+        applicationId = "com.btaaprojects.todoappbtaa"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
